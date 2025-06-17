@@ -1,4 +1,7 @@
-
+ body {
+      background-color: #1a1a1a;
+      color: #ffffff;
+    }
 
    .bg-light {
       background-color: #2a2a2a !important;
