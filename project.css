@@ -1,0 +1,23 @@
+
+
+   .bg-light {
+      background-color: #2a2a2a !important;
+    }
+    .bg-white {
+      background-color: #1a1a1a !important;
+    }
+    .card {
+      background-color: #333333;
+    }
+    .navbar-dark {
+      background-color: #1a1a1a !important;
+    }
+    #hero {
+      background: url('images/galaxy.gif') center/cover no-repeat;
+    }
+    #contact {
+      background-color: #1a1a1a;
+    }
+    footer {
+      background-color: #000000;
+    }
